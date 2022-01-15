@@ -1,5 +1,5 @@
 # VerilogScripts
-Scripts used for illustration in youtube channel: Experiencing Verilog
+Scripts used for illustration in youtube channel: **Experiencing Verilog**
 
 The Verilog scripts are in the order of the video sessions available at 
 
