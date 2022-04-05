@@ -1,0 +1,11 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "Q[2]" LOC = G1;
+NET "Q[1]" LOC = P4;
+NET "Q[0]" LOC = N4;
+NET "sclk" LOC = M5;
+
+NET "clear" LOC = P11;
+NET "clk" LOC = B8;
+NET "dir_up" LOC = N3;
